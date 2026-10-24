@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" role="img" aria-label="Domains">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0.4"><stop offset="0" stop-color="#0F9D8A"/><stop offset="1" stop-color="#E8647C"/></linearGradient></defs>
+  <rect width="1000" height="200" rx="18" fill="url(#g)"/>
+  <path d="M0 150 C 180 120 320 190 520 160 S 860 120 1000 150 V200 H0 Z" fill="#ffffff" opacity="0.14"/>
+  <path d="M0 172 C 220 150 380 200 600 178 S 880 150 1000 170 V200 H0 Z" fill="#ffffff" opacity="0.12"/>
+  <text x="500" y="62" text-anchor="middle" font-family="Consolas, monospace" font-size="15" letter-spacing="4" fill="#ffffff" opacity="0.85">// TECHNICAL FOCUS</text>
+  <text x="500" y="112" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#ffffff">Domains</text>
+  <text x="500" y="144" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#ffffff" opacity="0.92">Where I build, learn and go deeper</text>
+</svg>
